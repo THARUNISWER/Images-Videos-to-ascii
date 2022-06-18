@@ -34,4 +34,4 @@ FEATURES IMPLEMENTED:(Along with internal working)
     7)Then the pixel arrays of the gray image and the inverted blurred image are divided to get the output pencil sketch.
     
 
-Sample processed images are attached.
+Sample processed images and videos are attached.
