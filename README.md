@@ -4,11 +4,11 @@ A python program to convert Images/Videos to ascii frames
 STEPS TO RUN:
 1)  Download the video-to-ascii python file
 2)  The following libraries are required.
-    i) OpenCV
-    ii) os
-    iii) moviepy
-    iv) numpy
-    v) PILLOW
+    i. OpenCV
+    ii. os
+    iii. moviepy
+    iv. numpy
+    v. PILLOW
 4)  Then run the python file however you like without any command line arguments
 5)  As the program asks queries, reply to it
 6)  Then the image or video will get processed
