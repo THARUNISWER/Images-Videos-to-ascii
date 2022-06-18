@@ -2,7 +2,7 @@
 A python program to convert Images/Videos to ascii frames
 
 STEPS TO RUN:
-1)  Download the video-to-ascii python file
+1)  Download the video-to-ascii python file along with the fonts.
 2)  The following libraries are required.
     i. OpenCV
     ii. os
