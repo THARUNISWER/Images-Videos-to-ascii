@@ -44,3 +44,4 @@ https://analyticsindiamag.com/converting-image-into-a-pencil-sketch-in-python/
 https://www.geeksforgeeks.org/moviepy-assigning-audio-clip-to-video-file/
 
 Sample processed images and videos are attached.
+The video demo has been attached along in the repository itself
